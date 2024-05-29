@@ -1,5 +1,5 @@
 
-# E-commerce Data Pipeline
+# Data Pipeline for E-commerce Platform
 
 ## Overview
 
