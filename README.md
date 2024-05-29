@@ -1,4 +1,5 @@
-# Data-Pipeline-for-E-commerce-Platform-python
+
+# E-commerce Data Pipeline
 
 ## Overview
 
@@ -36,4 +37,5 @@ The project relies on the following dependencies to function properly:
 ## License
 
 This project is licensed under the MIT License. 
+
 
